@@ -10,7 +10,7 @@ Building practical AI tools, automation systems, and data-driven solutions.
 ## 🧠 About Me
 
 I’m a technology professional with experience across **AI/ML, data analytics, and automation**.  
-I enjoy building systems that solve real problems — from intelligent tools to clean, scalable backend solutions.
+I enjoy building systems that solve real problems - from intelligent tools to clean, scalable backend solutions.
 
 ---
 
