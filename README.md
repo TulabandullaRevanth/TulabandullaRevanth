@@ -3,7 +3,7 @@
 **AI / ML Engineer · Data Analyst · Automation Builder**
 
 Building practical AI tools, automation systems, and data-driven solutions.  
-📍 Hyderabad, India · 📧 tulabandullarevanth@email.com · 🔗 LinkedIn: linkedin.com/in/tulabandulla-revanth-b366a5360
+📍 Hyderabad, India · 📧 tulabandullarevanth@email.com · 🔗 LinkedIn: https://www.linkedin.com/in/tulabandulla-revanth-b366a5360/
 
 ---
 
@@ -58,6 +58,6 @@ Applied AI, ML, and automation systems
 
 If you’re interested in **AI, automation, or collaboration**, feel free to connect with me on:
 
-🔗 **LinkedIn:** linkedin.com/in/tulabandulla-revanth-b366a5360 
+🔗 **LinkedIn:** https://www.linkedin.com/in/tulabandulla-revanth-b366a5360/
 
 Thanks for visiting my profile! ⭐
